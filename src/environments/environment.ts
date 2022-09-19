@@ -4,8 +4,8 @@
 
 export const environment = {
   production: false,
-  apiUrlv1: 'http://localhost:5001/api/v1/',
-  imagensUrl: 'http://localhost:5001/'
+  apiUrlv1: 'https://backend-product-v3.herokuapp.com/',
+  imagensUrl: 'https://backend-product-v3.herokuapp.com/'
 };
 
 /*
